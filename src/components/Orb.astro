@@ -1,0 +1,58 @@
+---
+// Ambient floating orb — subtle atmospheric element
+---
+
+<div class="orb-container" aria-hidden="true">
+  <div class="orb"></div>
+</div>
+
+<style>
+  .orb-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .orb {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle,
+      rgba(100, 60, 120, 0.04) 0%,
+      rgba(80, 50, 100, 0.02) 40%,
+      transparent 70%
+    );
+    filter: blur(80px);
+    top: 20%;
+    right: -10%;
+    animation: drift 60s ease-in-out infinite alternate;
+  }
+
+  @keyframes drift {
+    0% {
+      transform: translate(0, 0) scale(1);
+    }
+    33% {
+      transform: translate(-5%, 8%) scale(1.05);
+    }
+    66% {
+      transform: translate(3%, -5%) scale(0.95);
+    }
+    100% {
+      transform: translate(-2%, 3%) scale(1.02);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .orb {
+      animation: none;
+    }
+  }
+</style>

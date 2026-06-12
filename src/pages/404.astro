@@ -1,0 +1,29 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Not Found — Aditya Prasad">
+  <div class="not-found">
+    <h1>404</h1>
+    <p>Nothing here. <a href="/">Return home</a>.</p>
+  </div>
+</Base>
+
+<style>
+  .not-found {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-md);
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 4rem;
+    color: var(--color-text-dim);
+    margin-bottom: var(--space-sm);
+  }
+
+  p {
+    color: var(--color-text-muted);
+  }
+</style>

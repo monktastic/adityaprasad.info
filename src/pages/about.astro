@@ -1,0 +1,58 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="About — Aditya Prasad" description="About Aditya Prasad.">
+  <div class="about">
+    <h1>About</h1>
+
+    <div class="content">
+      <p>
+        I'm Aditya Prasad. I spend most of my time thinking about the places
+        where contemplative practice, philosophy, and mathematics meet — and
+        about why those meetings are harder to articulate than they should be.
+      </p>
+
+      <p>
+        My background is in mathematics and computer science. For the past
+        several years, much of my attention has turned toward meditation and
+        the philosophical traditions that surround it — particularly the
+        question of how direct investigation of experience relates to the
+        formal structures we use to describe it.
+      </p>
+
+      <p>
+        I write here to think in public: to work through ideas that are still
+        forming, and to find readers who are working on similar questions from
+        different angles.
+      </p>
+
+      <p>
+        This site is deliberately simple. No tracking, no analytics, no
+        newsletter pop-ups. Just writing.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .about {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: var(--space-lg) var(--space-md) var(--space-xl);
+  }
+
+  h1 {
+    margin-bottom: var(--space-lg);
+  }
+
+  .content {
+    font-size: 1.05rem;
+    color: var(--color-text-muted);
+    line-height: 1.8;
+  }
+
+  .content p:last-child {
+    margin-bottom: 0;
+  }
+</style>

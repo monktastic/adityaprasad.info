@@ -1,0 +1,83 @@
+---
+const currentPath = Astro.url.pathname;
+const links = [
+  { href: '/essays', label: 'Essays' },
+  { href: '/about', label: 'About' },
+  { href: '/contact', label: 'Contact' },
+];
+---
+
+<nav>
+  <a href="/" class="wordmark">Aditya Prasad</a>
+  <div class="nav-links">
+    {links.map(({ href, label }) => (
+      <a
+        href={href}
+        class:list={[{ active: currentPath.startsWith(href) }]}
+      >
+        {label}
+      </a>
+    ))}
+  </div>
+</nav>
+
+<style>
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: var(--space-md) 0;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding-left: var(--space-md);
+    padding-right: var(--space-md);
+    position: relative;
+    z-index: 1;
+  }
+
+  .wordmark {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    transition: color 0.2s ease;
+  }
+
+  .wordmark:hover {
+    color: var(--color-text);
+  }
+
+  .nav-links {
+    display: flex;
+    gap: var(--space-md);
+  }
+
+  .nav-links a {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    transition: color 0.2s ease;
+  }
+
+  .nav-links a:hover,
+  .nav-links a.active {
+    color: var(--color-text);
+  }
+
+  @media (max-width: 600px) {
+    nav {
+      flex-direction: column;
+      gap: var(--space-sm);
+      align-items: flex-start;
+    }
+
+    .nav-links {
+      gap: var(--space-sm);
+    }
+  }
+</style>

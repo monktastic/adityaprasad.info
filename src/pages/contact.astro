@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Contact — Aditya Prasad" description="Get in touch with Aditya Prasad.">
+  <div class="contact">
+    <h1>Contact</h1>
+
+    <div class="content">
+      <p>
+        The best way to reach me is by email:
+        <a href="mailto:hello@adityaprasad.info">hello@adityaprasad.info</a>
+      </p>
+
+      <p>
+        I'm genuinely interested in hearing from people thinking about similar
+        questions — contemplative practice, philosophy of mind, mathematical
+        structure, or the places where these overlap. I read everything and try
+        to respond.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .contact {
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: var(--space-lg) var(--space-md) var(--space-xl);
+  }
+
+  h1 {
+    margin-bottom: var(--space-lg);
+  }
+
+  .content {
+    font-size: 1.05rem;
+    color: var(--color-text-muted);
+    line-height: 1.8;
+  }
+
+  .content a {
+    border-bottom: 1px solid var(--color-accent-dim);
+    padding-bottom: 1px;
+  }
+
+  .content a:hover {
+    border-color: var(--color-accent);
+  }
+</style>
