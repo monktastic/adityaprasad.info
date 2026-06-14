@@ -15,6 +15,7 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
         Writing at the intersection of contemplative practice,
         philosophy, and mathematics.
       </p>
+      <div class="hero-rule" aria-hidden="true"></div>
     </section>
   </div>
 
@@ -75,6 +76,16 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
     text-transform: uppercase;
     letter-spacing: 0.2em;
     text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-rule {
+    height: 2px;
+    background: var(--color-accent);
+    margin: var(--space-md) auto 0;
+    opacity: 0.6;
   }
 
   .tagline {
@@ -83,6 +94,7 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
     line-height: 1.6;
     text-align: center;
   }
+
 
   .home {
     max-width: var(--measure);
@@ -182,3 +194,13 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
     }
   }
 </style>
+
+<script>
+  function syncRuleWidth() {
+    const h1 = document.querySelector('.hero h1');
+    const rule = document.querySelector('.hero-rule');
+    if (h1 && rule) rule.style.width = h1.offsetWidth + 'px';
+  }
+  syncRuleWidth();
+  window.addEventListener('resize', syncRuleWidth);
+</script>
