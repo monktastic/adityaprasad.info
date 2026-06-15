@@ -4,18 +4,17 @@ description: We've convinced ourselves we live in a world of 'pitiless indiffere
 date: 2026-06-13
 draft: false
 ---
-
-> _Reality is that which, when you stop believing in it, doesn't go away._ —Philip K Dick
+> _Most of us suspect we don’t really know what life is. But really knowing you don't know takes some work. It requires you to clearly see that your story is just a story; and to become conscious of the deep mystery at its foundation._ —Tim Freke
 
 It's not possible to be certain about the nature of reality—to know what's "really happening."
 
 At the same time, something certainly **seems** to be happening: what we call "experience."
 
-If you can hold both of these at once with precision—something people almost never do—a remarkable and unexpected thing happens. A deep part of our psyche that was bracing itself against the unknown—one that we didn't even know we had—begins to unclench. Claims that once sounded "woo" become self-evident.
+If we can hold both of these at once with precision—something people almost never do—a remarkable and unexpected thing happens. A deep part of our psyche that was bracing itself against the unknown—one that we didn't even know we had—begins to unclench. Claims that once sounded "woo" become self-evident.
 
 The profound ennui and meaninglessness devouring our civilization: their source becomes obvious. As does a way out.
 
-Our world is not one of "pitiless indifference." It is one of **pure, miraculous magic.**  Not the naive sense of "miraculous." A precise, defensible one.
+Our world is not one of "pitiless indifference." It is one of **pure, miraculous magic.** Not the naive sense of "miraculous." A precise, defensible one.
 
 Far from being irrational, it's the inevitable result when reason is taken to its logical conclusion.
 
@@ -27,9 +26,11 @@ What is it? What's causing it?
 
 The answer seems obvious: there's a physical world, you experience it through your brain, etc.
 
-But how do you know it's not all a simulation, or a dream, etc.? You don't. But what's worse is, you can't even call them "unlikely."
+But how do you know it's not all a simulation, or a dream, etc.? You don't. But what's worse is, you can't even call those possibilities "unlikely."
 
-To calculate those odds, you'd need some knowledge about whatever is *outside* this reality—which is, by definition, inaccessible[^odds]. So the feeling that they're "unlikely" is just that: a *feeling*.
+To calculate odds, you'd need some knowledge about whatever is *outside* this reality—which is, by definition, inaccessible[^odds]. So the feeling that they're "unlikely" is just that: a *feeling*.
+
+Yet even if we understand this intellectually, our usual view viscerally *feels* "more likely," doesn't it? It operates below the level of thought—and it is this illusion we're trying to interrupt.
 
 Can you even be sure there *was* a reality before five minutes ago? Maybe it all spontaneously popped into being, fully formed, exactly then, with only the *appearance* of a real past (including planted evidence, false memories, etc.). Again, how can you evaluate the probability without trusting knowledge from *before* five minutes ago—which would be plainly circular?
 
@@ -37,19 +38,19 @@ Even Occam's Razor cannot help you here, since it's only justified based on "pas
 
 In fact, for all you know, reality is magically popping into existence right now. When? Now. Yes, **now**. There *was* no "two seconds ago." You're imagining it.
 
-Sure, maybe this possibility is no more likely than any other. But it's not any *less*, either.
+Sure, maybe this possibility is no more likely than any other. But it's not any *less*, either. And any attempt to refute it end up in circularity.
 
 Just let yourself recognize: *I genuinely do not—**cannot**—know what this is.*
 
-If you really let this sink in—especially that *this may be the first moment*—you'll feel the ground wobbling under your feet. A kind of giddy, almost uncanny feeling will begin to overtake you. It's not new or foreign. It's closer to what things are like *before* we put conceptual overlays on them.
-
-Take your time ("time") with this, until this starts to happen. Even if you've done this before, do it again now. Don't just imagine or recall what it's like.
-
-A common way we prevent this from happening is reassuring ourselves with thoughts like "so what? By definition, my reality will look the same either way." If you intellectually grasp the import without really doing the exercise, none of the rest of this piece will make sense. So it's worth trying until you start to feel that shift.
-
 It can help to notice: we're not doing anything strange or mystical here. We're just being as radically honest as humanly possible.
 
-You'll probably find that your usual beliefs start to powerfully reassert themselves after a brief time—even though you can **prove** they are unjustified. It feels like "oh come on, get real." What's going on there? 
+If you really let it sink in—especially that *this may be the first moment*—you'll feel the ground start to wobble under your feet. A kind of giddy, almost uncanny feeling will overtake you. It's not new or foreign. It's what things are like *before* we put conceptual overlays on them.
+
+Take your time ("time") with this, until this starts to happen. Even if you've done this before, do it again now. Don't just imagine or recall what it's like. Don't just think "been there, done that."
+
+A common way we prevent this from happening is reassuring ourselves. We think: "so what? By definition, it can't make any difference." If you do that, none of the rest of this piece will make sense. So it's worth trying until you start to feel that shift.
+
+You'll probably find that your usual beliefs keep trying to reassert themselves—even though you can **prove** they are unjustified. It feels like "oh come on, get real." What's going on there? 
 
 Something in us cannot tolerate us seriously questioning our reality.
 
@@ -61,45 +62,47 @@ Although you cannot say precisely **what** is happening, it's undoubtable that *
 
 Don't just think about this. Look at the vibrant, wondrous experience engulfing you. Really drink it in. All the sights, sounds, textures, etc.
 
-If you begin to doubt that something really seems to be happening, simply notice how *doubt seems to be happening*. I'm not trying to convince you of an idea. This is not a philosophical argument. Just *look*, as a child might. Don't label it—"consciousness" or whatever. That encourages you to start doubting the label and miss what's actually here.
+If you begin to doubt that something really seems to be happening, simply notice how *doubt seems to be happening*. This isn't an idea. Not a philosophical argument. Just *look*, as a child might. Don't label it—"consciousness" or whatever. Labels can always be doubted.
 
 Don't proceed until you are left with **absolutely no doubt**. Until you feel the self-defeating nature of doubting **this**.
 
-So on one hand, you're engulfed in something **completely undoubtable**. On the other, any "explanation" for it is utterly meaningless. Unjustifiable. You don't even have reason to believe you've experienced anything before this very moment.
+So on one hand, you're engulfed in something **completely undoubtable**. On the other, any "explanation" for it is utterly meaningless. Unjustifiable. You don't even have reason to believe you've experienced anything *before* this very moment.
 
 Which moment? **This** one. Which one? This one. Etc.
 
-Again, it helps to remind yourself that you're not doing anything weird. You're simply doing the most honest thing possible: remaining with the one thing you can be **completely sure** of, while releasing all unjustified (and unjustifiable) beliefs about what it "is" or what's "causing" it.
+Again, it helps to remind yourself that you're not doing anything weird. You're simply doing the most honest thing possible: remaining with the one thing you can be **completely sure** of, while relaxing all unjustified (and unjustifiable) beliefs about what it "is" or what's "causing" it.
 
 If you manage to rest in this apparent paradox—nailing both halves with perfect precision—a creeping recognition will begin to dawn.
 
-You're in direct contact with something literally beyond explanation. Not in some "woo-woo" or hand-wavy sense. In the precise sense that no "explanation" of it can ever be warranted *in the slightest*. And yet, here it is—radically, almost magically alive.
+You're in direct contact with something literally beyond explanation. Not in some "woo-woo" or hand-wavy sense. Provably. *Inescapably.* And yet, here it is—radically, almost magically alive.
 
 ---
 
 > _I wish I could show you when you are lonely or in darkness the astonishing light of your own being._ —Hafiz
 
-Here's what sometimes happens when I do this: I begin to fear I'm being irrational or superstitious. How can something be genuinely mysterious? That just means that we haven't found an explanation *yet*. Surely science will eventually solve it (if it hasn't already). My (very real) brain is just having a trippy experience, that's all.
+Here's what happens when I first do this: I fear I'm being irrational or superstitious. How can something be genuinely mysterious? That just means that we haven't found an explanation *yet*. Surely science will eventually solve it (if it hasn't already). My very real brain is just having a trippy experience, that's all.
 
 But **why** do I think that, when I've just proven it is no more "likely" than any other explanation? Doesn't it mean I've abandoned the profound honesty I was modeling just a moment ago? Why do I feel the need to do that?
 
-Even if science *does* "solve" it, this exercise will still be available to me. Even if that solution is true in some sense, I will still be no more justified in believing it.
+Even if science "solves" it, won't this exercise still be available to me? No matter how "true" that solution is, I will still be *not one whit more* justified in believing it.
 
-There's also the fear that I will lose the ability to function. But is that true? I'm learning to stop confusing the map with the territory. That's not the same as abandoning the map. And it can't be accomplished by simply *thinking harder about it*. That just gets me lost in ever-more refined maps.
+There's also the fear that I will lose the ability to function. But is that true? I'm learning to stop confusing the map with the territory. That's not the same as abandoning the map. And this can't be accomplished by simply *thinking harder about it*. That just produces new, more clever maps.
 
-If I relax all these fears and persist, something astonishing happens. At some point, my experience undergoes a phase transition from mundane to **miraculous**. Or more precisely, I recognize that it has **always been this way, timelessly**.
+If I relax all these fears and persist, something astonishing happens. At some point, my experience undergoes a phase transition, from mundane to **miraculous**. Or more precisely, I recognize that it has **always been this way, timelessly**.
 
 Believe me, I know how the word "miraculous" sounds. I don't mean "I can't explain it, therefore miracle." I mean I directly perceive the precise sense in which all explanations for it are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)."
 
 I almost never look directly at what is right before my eyes, because I'm separated from it by a layer of assumptions I almost never see through. And when those assumptions become fully transparent—experientially, not just intellectually—I finally see what I've been avoiding looking at.
 
-Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Phenomenologically, it feels as though reality is being magically created out of nothing in each moment; here and now.
+Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." It feels as though reality is being magically created out of nothing in each moment; here and now.
 
-I finally understand why some people cannot help but use the "G" word for it.
+That urge to ask myself "how do I know this is not just a trick of the brain?" increasingly dissolves as I see it for what it is: a defense mechanism, designed to keep the shock and awe of THIS at bay. It never had the authority I was giving it. It was only a scared child—all bluff and bluster.
 
-You could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
+I finally understand why other people cannot help but use the "G" word for this. But you could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
 
 ---
+
+> _Reality is that which, when you stop believing in it, doesn't go away._ —Philip K Dick
 
 This shift of the meaning of the word "real" is not a small one. It is in this experience that I realize I've been using the word "real" to refer to my *model* of reality—something I've long known is unjustified, but hadn't viscerally *felt* before. It now refers to the one irrefutable thing; that which always deserved this exalted word.
 
