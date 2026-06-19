@@ -10,13 +10,13 @@ It's not possible to be certain about the nature of reality—to know what's "re
 
 At the same time, something certainly **seems** to be happening: what we call "experience."
 
-If we can hold both of these at once with precision—something people almost never do—a remarkable and unexpected thing happens. A deep part of our psyche that was bracing itself against the unknown—one that we didn't even know we had—begins to unclench. Claims that once sounded "woo" become self-evident.
+If we can hold both of these at once with precision—something people rarely do—a remarkable and unexpected thing happens. A deep part of our psyche that was bracing itself against the unknown—one that we may not even have known we had—begins to unclench. Claims that once sounded "woo" become self-evident.
 
 The profound ennui and meaninglessness devouring our civilization: their source becomes obvious. As does a way out.
 
-Our world is not one of "pitiless indifference." It is one of **pure, miraculous magic.** Not the naive sense of "miraculous." A precise, defensible one.
+Our world is not one of "pitiless indifference," as we've been telling ourselves. It is one of **pure, miraculous magic.** Not the naive sense of "miraculous." A precise, defensible one.
 
-Far from being irrational, it's the inevitable result when reason is taken to its logical conclusion.
+Far from being irrational, this is the inevitable result when reason is taken to its logical conclusion.
 
 ---
 
@@ -28,9 +28,9 @@ The answer seems obvious: there's a physical world, you experience it through yo
 
 But how do you know it's not all a simulation, or a dream, etc.? You don't. But what's worse is, you can't even call those possibilities "unlikely."
 
-To calculate odds, you'd need some knowledge about whatever is *outside* this reality—which is, by definition, inaccessible[^odds]. So the feeling that they're "unlikely" is just that: a *feeling*.
+To calculate those odds, you'd need some knowledge about whatever is *outside* this reality—which is, by definition, inaccessible[^odds]. So the feeling that they're "unlikely" is just that: a *feeling*.
 
-Yet even if we understand this intellectually, our usual view viscerally *feels* "more likely," doesn't it? It operates below the level of thought—and it is this illusion we're trying to interrupt.
+Yet even if we understand this intellectually, it's not like that feeling goes away. A visceral kind of certainty remains about our usual view. It is this illusion we're trying to interrupt.
 
 Can you even be sure there *was* a reality before five minutes ago? Maybe it all spontaneously popped into being, fully formed, exactly then, with only the *appearance* of a real past (including planted evidence, false memories, etc.). Again, how can you evaluate the probability without trusting knowledge from *before* five minutes ago—which would be plainly circular?
 
@@ -38,7 +38,7 @@ Even Occam's Razor cannot help you here, since it's only justified based on "pas
 
 In fact, for all you know, reality is magically popping into existence right now. When? Now. Yes, **now**. There *was* no "two seconds ago." You're imagining it.
 
-Sure, maybe this possibility is no more likely than any other. But it's not any *less*, either. And any attempt to refute it end up in circularity.
+Sure, maybe this possibility is no more likely than any other. But it's not any *less*, either. And any attempt to refute it ends up in circularity.
 
 Just let yourself recognize: *I genuinely do not—**cannot**—know what this is.*
 
@@ -48,9 +48,9 @@ If you really let it sink in—especially that *this may be the first moment*—
 
 Take your time ("time") with this, until this starts to happen. Even if you've done this before, do it again now. Don't just imagine or recall what it's like. Don't just think "been there, done that."
 
-A common way we prevent this from happening is reassuring ourselves. We think: "so what? By definition, it can't make any difference." If you do that, none of the rest of this piece will make sense. So it's worth trying until you start to feel that shift.
+A common way we prevent this from happening is reassuring ourselves. We think: "so what? By definition, it can't make any difference." If you do that, none of the rest of this piece will make sense. So it's worth trying until you start to feel the shift.
 
-You'll probably find that your usual beliefs keep trying to reassert themselves—even though you can **prove** they are unjustified. It feels like "oh come on, get real." What's going on there? 
+Even if you do, you'll probably find that your usual beliefs keep trying to reassert themselves—even though you can **prove** they are unjustified. It feels like "oh come on, get real." What's going on there? 
 
 Something in us cannot tolerate us seriously questioning our reality.
 
