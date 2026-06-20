@@ -99,24 +99,54 @@ Here's the intuition: the particles were initially near each other, where they c
 
 In particular, the statistics on the left side are independent of those on the right. When each side looks at their local tallies, they will know nothing about what happened on the other side (what was chosen to be measured, let alone what the outcome was). This is harder to prove, which is why it took so long for the field to appreciate it.
 
-The inequality wasn't even discovered until 1964, when J. S. Bell published his famous paper (as a "side project"). Even then, the precise sense in which two particles could seemingly "communicate" without violating locality hadn't been established as a theorem.
+The inequality wasn't even discovered until 1964, when J. S. Bell published his famous paper (as a "side project"). Even then, the precise sense in which two particles could seemingly "communicate" without violating locality hadn't been established as a theorem. That work wasn't done until the late '70s / early '80s.
 
-The experiment itself was first conducted by Clauser and Freedman in 1972, then refined by Aspect in the early 1980s and by Zeilinger and others in the decades following (work for which Aspect, Clauser, and Zeilinger jointly received the 2022 Nobel Prize). And only in the late '70s / early '80s had the field developed enough sophistication to clarify that distinction.
+The experiment itself required precise instrumentation, and was first conducted by Clauser and Freedman in 1972, then refined by Aspect in the early 1980s and by Zeilinger and others in the decades following—culminating in loophole-free Bell tests in 2015 that closed the last experimental wiggle room. This work earned Aspect, Clauser, and Zeilinger the 2022 Nobel Prize.
 
-For decades after, physicists tried to find ways out—either by tightening the assumptions, finding experimental loopholes, or constructing realist theories that paid the price elsewhere (Bohmian mechanics, for instance, keeps definite particle positions but builds in explicit nonlocality). Each escape route has been progressively narrowed: Kochen-Specker (1967) ruled out non-contextual hidden variables; GHZ (1989) sharpened the violation from statistical to deterministic; and loophole-free Bell tests in 2015 closed the last experimental wiggle room.
-
-And *why* do we keep searching for loopholes? Apart from being good scientists, perhaps this conclusion is hinting in a direction we're reluctant to go.
+Taken together, this shows that the particles cannot be carrying hidden state that would let us predict their outcomes.
 
 ---
 
-It may sound like this only shows why the particles themselves cannot be carrying hidden state that would let us predict their outcomes. But note that it actually does something much stronger.
+But the astute reader will notice that even if such predictive information cannot live with the particles themselves, it could still potentially exist elsewhere—in some process tied to the measurement apparatus, the broader physical context, or some structure we haven't yet identified.
 
-If there were any state, _anywhere_, that could account for their outcomes, it would face the same problem: it would have to communicate that information across any distance, faster than light.
+This seems much harder to rule out—and it is, which is why physicists and mathematicians have been busy for decades closing such "loopholes" or constructing theories to work around them. GHZ (1989) presented an argument that doesn't rely on statistics, for example, while Bohmian mechanics bites the bullet and preserves realism by building in explicit nonlocality.
 
-This means that, as best we can tell, there is no information _anywhere_ that would let us predict the outcomes. They are not just unpredictable in practice—they are unpredictable in principle. And we can **prove** it.
+(If this is starting to seem academic, recall what's at stake: the very existence of an observer-independent reality. If you've been following the series, you'll feel why that's an especially difficult thing to give up. It also explains the appeal of superdeterminism—some would sooner give up *all of science* than accept that there is no way the world is, independent of observation.)
 
-There is no a priori reason the universe had to be the kind of place where this proof works. It might have been deterministic underneath, or random in a way we couldn't pin down. Instead, it is built so that indeterminism is not just real but _demonstrable from the inside_.
+One particularly powerful result is the Conway-Kochen "Free Will Theorem" (2006), which showed that as long as experimenters can freely choose their measurement settings, the outcomes cannot be a function of _any_ prior information from *anywhere.* You can find details in Appendix A.
+
+In other words, the outcomes are not just unpredictable in practice—they are unpredictable in principle. And we can **prove** it.
+
+---
+
+There is no a priori reason the universe had to be the kind of place where such proofs are possible. It might have been deterministic underneath, or random in a way we couldn't pin down. Instead, it is built so that indeterminism is not just real but _demonstrable from the inside_.
 
 Taken alone, this doesn't prove anything about design or purpose. But the universe **is** built in a way that makes one of the most indispensable features of conscious life—the *openness of the future*—into something we can trust.
 
 Whether that's a coincidence or indicative of something far more fantastic is for you to decide. But as the other essays accumulate, a picture begins to emerge...
+
+---
+
+## Appendix A: Conway-Kochen
+
+Here we will try to explain the Conway-Kochen Free Will Theorem in elementary terms, starting with some basics.
+
+In QM, position and momentum cannot be thought of as independent properties (as they are in classical physics), but are instead like different aspects of the _same_ underlying property. One implication is that we find certain correlations between their measurements.
+
+The spin of a particle along the x, y, and z axes are similarly expressions of a single underlying property. These are a bit easier to work with, since each can take on only a small handful of values (for example, -1/2 or 1/2 for an electron, and -1, 0, or 1 for a photon—versus a continuum of values for position and momentum).
+
+You can also pick new x, y, and z axes, and QM predicts correlations between the new and old axes. For example, if you get some result for spin along the old x-axis, and then measure it along a new x-axis that is very close to the old one, you ought to get the _same_ result with high probability.
+
+Now, it turns out that if a photon has definite spins along the x-, y-, and z-axes—for all possible (orthogonal) x, y, and z—then it is impossible to satisfy all of the observed correlations. So the photon cannot simply *have* definite values (or be "looking them up" from a fixed table) for all these properties and still give the experimental results predicted (and confirmed) by QM.
+
+Kochen and Specker proved this in 1967, but with a caveat. The photon _can_ be looking up its results while preserving correlations—if the photon's answer is allowed to depend not only on which axis you're measuring, but on which two other perpendicular axes you've chosen to measure alongside it.
+
+This is called _contextuality._ It puts a constraint on such "hidden variable" theories, but it's not quite as strong as we'd like. Particles cannot have pre-existing properties that are independent of context, but they can still have a certain (if bizarre) kind of pre-existence. 
+
+What's fascinating about this proof is that it only requires elementary counting arguments, and does not require deep knowledge of QM. It turns out to be equivalent to trying to color the points on a sphere in a certain way that obeys certain correlations (and failing due to a contradiction).
+
+In 2006, Conway and Kochen used this to prove a stronger result. Combining it with Bell, and adding one assumption—that experimenters can freely choose their measurement settings—they showed that no "lookup table" approach could account for the observed results. 
+
+That is, even allowing the answer to depend on what's being co-measured (contextuality) doesn't save the lookup-table view. The particle's response simply cannot be a function of the information available to it. The result is, in a precise sense, completely "fresh."
+
+(The "freedom" assumption deserves a note. It's the assumption that the experimenters' choices aren't themselves determined by prior physical state (the same assumption superdeterminism denies). If you reject it, the theorem doesn't apply—but you've also given up the ability to do controlled science, since experimenters' choices being independent of the systems they study is what makes experiment possible in the first place.)
