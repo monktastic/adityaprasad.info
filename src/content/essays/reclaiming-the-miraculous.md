@@ -96,7 +96,7 @@ I don't mean "I can't explain it, therefore miracle." I don't even mean that all
 
 I almost never look directly at what is right before my eyes, because I'm separated from it by a layer of assumptions I almost never see through. And when those assumptions become fully transparent—experientially, not just intellectually—I finally see what I've been avoiding looking at.
 
-I drop to my knees in gratitude, as if nothing I've done could have earned me the right to experience this—and yet at the same time, there's no other way it could possibly be. Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Reality is being magically created out of nothing in each moment; now, now, **now**. It never began. And it never stops.
+I drop to my knees in wonder and gratitude, as if nothing I've done could have possibly earned me the right to experience this—and yet at the same time, there's no other way it could possibly be. Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Reality is being magically created out of nothing in each moment; now, now, **now**. It never began. And it never stops.
 
 That urge to ask myself "how do I know this is not just a trick of the brain?" increasingly dissolves as I see it for what it is: a defense mechanism, designed to keep the shock and awe of THIS at bay. It never had the authority I was giving it. It was only a scared child—all bluff and bluster.
 
