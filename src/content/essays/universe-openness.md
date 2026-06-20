@@ -32,8 +32,8 @@ Now suppose you count the total number of items where A=0 and B=0, regardless of
 
 In words: the number of particles where properties A and B are both zero is less than or equal to the number where B and C are zero _plus_ the number where A is 0 and C is 1. This follows from two basic observations:
 
-- `N(0, 0, 0) ≤ N(x, 0, 0)
-- `N(0, 0, 1) ≤ N(0, x, 1)
+- `N(0, 0, 0) ≤ N(x, 0, 0)`
+- `N(0, 0, 1) ≤ N(0, x, 1)`
 
 Adding these two gives us the original inequality.
 
@@ -112,4 +112,3 @@ There is no a priori reason the universe had to be the kind of place where this 
 Taken alone, this doesn't prove anything about design or purpose. But the universe **is** built in a way that makes one of the most indispensable features of conscious life—the *openness of the future*—into something we can trust.
 
 Whether that's a coincidence or indicative of something far more fantastic is for you to decide. But as the other essays accumulate, a picture begins to emerge...
-

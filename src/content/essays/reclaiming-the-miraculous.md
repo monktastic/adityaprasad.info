@@ -42,7 +42,7 @@ Sure, maybe this possibility is no more likely than any other. But it's not any 
 
 Just let yourself recognize: *I genuinely do not—**cannot**—know what this is.*
 
-It can help to notice: we're not doing anything strange or mystical here. We're just being as radically honest as humanly possible.
+You're not doing anything weird. You're just being completely honest (possibly for the first time).
 
 If you really let it sink in—especially that *this may be the first moment*—you'll feel the ground start to wobble under your feet. A kind of giddy, almost uncanny feeling will overtake you. It's not new or foreign. It's what things are like *before* we put conceptual overlays on them.
 
@@ -70,7 +70,7 @@ So on one hand, you're engulfed in something **completely undoubtable**. On the 
 
 Which moment? **This** one. Which one? This one. Etc.
 
-Again, it helps to remind yourself that you're not doing anything weird. You're simply doing the most honest thing possible: remaining with the one thing you can be **completely sure** of, while relaxing all unjustified (and unjustifiable) beliefs about what it "is" or what's "causing" it.
+Again, you're simply doing the most honest thing possible: remaining with the one thing you can be **completely sure** of, while relaxing all unjustified (and unjustifiable) beliefs about what it "is" or what's "causing" it.
 
 If you manage to rest in this apparent paradox—nailing both halves with perfect precision—a creeping recognition will begin to dawn.
 
@@ -90,15 +90,15 @@ There's also the fear that I will lose the ability to function. But is that true
 
 If I relax all these fears and persist, something astonishing happens. At some point, my experience undergoes a phase transition, from mundane to **miraculous**. Or more precisely, I recognize that it has **always been this way, timelessly**.
 
-Believe me, I know how the word "miraculous" sounds. I don't mean "I can't explain it, therefore miracle." I mean I directly perceive the precise sense in which all explanations for it are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)."
+I don't mean "I can't explain it, therefore miracle." I mean I directly perceive the precise sense in which all explanations for it are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)."
 
 I almost never look directly at what is right before my eyes, because I'm separated from it by a layer of assumptions I almost never see through. And when those assumptions become fully transparent—experientially, not just intellectually—I finally see what I've been avoiding looking at.
 
-Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." It feels as though reality is being magically created out of nothing in each moment; here and now.
+Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Reality is being magically created out of nothing in each moment; here and now.
 
 That urge to ask myself "how do I know this is not just a trick of the brain?" increasingly dissolves as I see it for what it is: a defense mechanism, designed to keep the shock and awe of THIS at bay. It never had the authority I was giving it. It was only a scared child—all bluff and bluster.
 
-I finally understand why other people cannot help but use the "G" word for this. But you could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
+I finally understand why other people cannot help but use the "G" word. But you could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
 
 ---
 
@@ -128,9 +128,7 @@ And what does humanity as a whole seem to be doing to each other? To other being
 
 We literally couldn't do it if we fully **saw** what we were doing. What we were looking at.
 
-Don't take my word for it. Repeat this exercise while looking at another person, or animal, or plant. Doesn't it become **much harder** to use them for your own benefit when really seeing them?
-
-It's not like you lose the knowledge of how to interact conventionally. But a visceral layer of assumption disappears—and that changes everything.
+Don't take my word for it. Repeat this exercise while looking at another person, or animal, or plant. Doesn't it become **much harder** to use them for your own benefit when really seeing them? You cease to see them as an object to be used, and recognize them as **life itself**.
 
 Modeling this radical honesty: it would begin to reveal aspects of ourselves that we may not be ready to confront. And that would stop us from engaging in behavior we're not ready to give up.
 
@@ -140,13 +138,13 @@ Here's the amazing part: none of what I've just told you is controversial. Here'
 
 > *There is* ***no way*** *to distinguish between the scenarios by collecting new data. [...] We have every right to give high credence to views of the world that are productive and fruitful, in preference to those that would leave us paralyzed with ennui.*
 
-In other words: yes, there is no principled way to privilege any (internally consistent) model of reality over another. So why not just keep doing what we've been doing—taking the conventional view of time, space, matter, etc. on what amounts to pure faith?
+In other words: yes, there is no principled way to privilege any (internally consistent) model of reality over another. He then proceeds as though his preferred model were the ground floor—graciously permitting us to describe it in other language ("poetic naturalism") as long as we accept the *real* truth.
 
 Life and consciousness are just accidental byproducts of mindless forces bashing lifeless matter against itself:
 
 > *The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but **pitiless indifference**.* —Richard Dawkins
 
-Boy, good thing we didn't adopt a perspective that would leave us "paralyzed with ennui," or pillaging "fundamentally lifeless" nature for our own benefit. Oops, maybe we did—but our hand was forced! It's just the way things are! You can tell because look: they *seem* that way!
+Boy, good thing we didn't adopt a perspective that would leave us "paralyzed with ennui," or pillaging "fundamentally lifeless" nature for our own benefit. Oops, okay maybe we did—but our hand was forced! It's just the way things are! You can tell because look: they *seem* that way!
 
 It is no coincidence that the philosophy *assuming* reality is fundamentally lifeless shares its name with the social phenomenon rapidly *turning* our world lifeless: "materialism." When there's only one thing that "really exists," why *wouldn't* we spend our lives chasing after it? Sacrificing inert chunks of matter like "forests" and "ecosystems" in endless pursuit of it?
 

@@ -101,7 +101,9 @@ There are also tantalizing anecdotal accounts that the deeper this release, the 
 > *My body started healing faster. My state of mind grew lighter. But the thing I never expected or imagined, life got better. But not just better, things happened that were fantastically out of my reach, things I couldn't have dreamt of. ... Amazing people were coming into my life, situations were naturally resolving themselves.*
 > —Kamal Ravikant, *Love Yourself Like Your Life Depends on It*
 
-So what do the non-dual traditions have to say about this process?
+What this framework does not yet supply is a precise account of how human loosening—meditation, contemplative practice, psychedelic release—maps onto the mathematical update. That's a bridge still being built.
+
+Now, what do the non-dual traditions have to say about this process?
 
 Dzogchen (the "highest" Tibetan Buddhist teaching) and *A Course in Miracles* (ACIM, a modern mystical teaching) both describe a similar mechanism: a mind that _creates_ reality by _projecting_ interpretations onto raw experience. Both also describe how to stop—and what happens when you do.
 
@@ -154,7 +156,7 @@ The framework predicts that with deep enough loosening, my lived reality should 
 
 But should *you* be expected to see this? In fact, is the version of you I see the "real you" in the first place? And if "other people" have claimed to succeed (as they have), then why don't you see any concrete evidence for it?
 
-These are deep philosophical questions for which I don't have solid answers, but here's what I'm holding tentatively: the more *I* "loosen," the more I appear to live in a world where "other people" can, too—because they are, of course, part of "my" loosening reality. Which means that if I don't yet live in such a world, that's on me.
+These are deep philosophical questions for which I don't have solid answers, but here's what I'm holding tentatively: the more *I* "loosen," the more I appear to live in a world where "other people" can, too—because they are, of course, part of "my" loosening reality. Which means that if I don't yet live in such a world, there may still be a way to access it.
 
 I should also note that this does not seem to be a monotonic process (a one-way street): even following a deep release, "normalcy" can powerfully reassert itself. (This is another place where psychedelics—especially in very large doses—may ofter a tantalizing glimpse.) I do not know how to model this.
 
@@ -185,7 +187,7 @@ The rest is yours.
 
 ---
 
-## Appendix: Other people?
+## Appendix A: Other people?
 
 We might ask ourselves: if this hypothesis is true, then why does the world appear to contain *other people* in the first place? 
 
@@ -199,7 +201,18 @@ Universe B is algorithmically simpler—and therefore, by universal induction, f
 
 ---
 
-## Appendix: Miscellaneous Related Quotes
+## Appendix B: But doesn't this explain too much?
+
+A reasonable worry: a framework that can accommodate anything explains nothing. It's worth being precise about what's being claimed.
+
+In the converged regime—the regime most people reading this are in—this framework predicts exactly the stable, lawful world materialism predicts, and for related reasons. That's what the inference loop produces once it has run long enough. So in day-to-day life, the two frames give you the same answers. They diverge only on what they predict for sufficiently loosened states.
+
+Materialism predicts no asymmetry there: meditation, psychedelic release, contemplative practice change how the observer interprets stable inputs, but the inputs themselves remain untouched. This framework predicts something different—that deep enough loosening should make the inputs themselves available for change. 
+
+The prediction is asymmetric, falsifiable in principle, and (by the framework's own logic) only verifiable from inside the experience. That last bit is why intersubjective evidence is hard to come by. It's not that the prediction is unfalsifiable; it's that the evidence has to be collected in exactly the place the framework says it would be.
+
+---
+## Appendix C: Miscellaneous Related Quotes
 
 ### ACIM-related
 
