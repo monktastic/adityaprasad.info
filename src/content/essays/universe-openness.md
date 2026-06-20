@@ -4,13 +4,17 @@ description: The universe could have been deterministic underneath, with the see
 date: 2026-06-19
 draft: false
 ---
-Quantum mechanics (QM) famously suggests that *things do not have well-defined properties before we measure them.* But how could you possibly demonstrate such a thing? You'd have to know something about those objects *before* measuring them—which seems like a contradiction.
+Suppose—as other essays suggest—you really were the Ground of Being, dreaming up this reality and all its inhabitants. What signals could you give yourself to help you remember your true condition?
 
-Not only that, but (as far as we can tell) there is no hidden information anywhere that could let us *predict* the outcomes of such measurements. The randomness isn't a matter of our ignorance—it appears to go all the way down.
+One thing you could do is ensure that the future stayed *open*—that you (now in the form of a dream character) didn't live in a boring, clockwork universe where everything could in principle be predicted. You want them to live in an *open* one.
 
-Here's another perspective on the question. Suppose you were in charge of creating the world and its inhabitants. Being benevolent, you want their futures to be open—for them not to live in a boring clock universe where everything could (in principle) be predicted.
+But that wouldn't be enough, would it? Because how could they ever know for sure that it really was open? That this wasn't just wishful thinking?
 
-You could just roll the dice and introduce randomness from the "outside." Then they would never be able to predict the future—but they would never be able to *prove* they couldn't. What's a simple set of laws you could create that would make randomness not just real, but provable from the inside?
+If you were outrageously clever, perhaps you could produce a set of laws that not only allowed for randomness, but let them prove that this randomness was genuine.
+
+But what on Earth could such a set of laws even look like?
+
+Enter quantum mechanics and J. S. Bell.
 
 ---
 ## The History: Einstein, Podolsky, and Rosen
@@ -73,7 +77,9 @@ If he still manages to defeat the inequality, it can only mean one of two things
 - He *does* have the ability to affect things faster than light (violating the fundamental physics principle of *locality*).
 - The particles do not have predetermined properties at all. The values only come into being when measured, in a way that's correlated across both particles. This violates _realism_—our everyday understanding that things have definite properties.
 
-[^superdeterminism]: A small minority of physicists—including Nobel laureate Gerard 't Hooft—hold out for a third option, called "superdeterminism": that everything in the universe, including the particle pair creation, the "demon's" choices, and our own, are effectively predetermined. You can read some good arguments against that view [here](https://scottaaronson.blog/?p=6215), on the blog of acclaimed quantum computing expert Scott Aaronson. Search for "superdeterminism."
+[^superdeterminism]: A small minority of physicists—including Nobel laureate Gerard 't Hooft—hold out for a third option, called "superdeterminism": the universe's initial conditions determine every measurement choice anyone will ever make, in exactly the way needed to mimic quantum mechanics to arbitrary precision. Why? Just because. The trouble isn't that it's improbable or fails to explain anything. It actively *prevents* us from explaining anything, since experiments no longer give us information. Scott Aaronson develops this well [here](https://scottaaronson.blog/?p=6215).
+
+that everything in the universe, including the particle pair creation, the "demon's" choices, and our own, are effectively predetermined. You can read some good arguments against that view [here](https://scottaaronson.blog/?p=6215), on the blog of acclaimed quantum computing expert Scott Aaronson. Search for "superdeterminism."
 
 Einstein held that both were obviously true. Locality was guaranteed by relativity, and realism was just common sense. If QM could not preserve both, then obviously it was incomplete. He argued there must be a deeper theory at work: one in which the particles **do** have some definite (if unobservable) properties that account for our observations.
 

@@ -90,15 +90,15 @@ There's also the fear that I will lose the ability to function. But is that true
 
 If I relax all these fears and persist, something astonishing happens. At some point, my experience undergoes a phase transition, from mundane to **miraculous**. Or more precisely, I recognize that it has **always been this way, timelessly**.
 
-I don't mean "I can't explain it, therefore miracle." I mean I directly perceive the precise sense in which all explanations for it are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)."
+I don't mean "I can't explain it, therefore miracle." I don't even mean that all explanations for it are wrong. I mean I directly perceive the sense in which all explanations are "[not *even* wrong](https://en.wikipedia.org/wiki/Not_even_wrong)." That whole endeavor is profoundly confused in a way that cannot be articulated—only seen.
 
 I almost never look directly at what is right before my eyes, because I'm separated from it by a layer of assumptions I almost never see through. And when those assumptions become fully transparent—experientially, not just intellectually—I finally see what I've been avoiding looking at.
 
-Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Reality is being magically created out of nothing in each moment; here and now.
+I drop to my knees in gratitude, as if nothing I've done could have earned me the right to experience this—and yet at the same time, there's no other way it could possibly be. Some call this experience "God," because it has the unmistakable flavor of being "that than which nothing greater can be conceived[^anselm]." Reality is being magically created out of nothing in each moment; now, now, **now**. It never began. And it never stops.
 
 That urge to ask myself "how do I know this is not just a trick of the brain?" increasingly dissolves as I see it for what it is: a defense mechanism, designed to keep the shock and awe of THIS at bay. It never had the authority I was giving it. It was only a scared child—all bluff and bluster.
 
-I finally understand why other people cannot help but use the "G" word. But you could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
+I finally understand why other people cannot help but use the "G" word for it. But you could also just call it *reality*: the one thing that does not "go away" when we stop believing in it.
 
 ---
 
