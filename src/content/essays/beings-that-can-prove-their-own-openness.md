@@ -3,6 +3,8 @@ title: Beings That Can Prove Their Own Openness
 description: The universe could have been deterministic underneath, with the seeming openness of the future a mere illusion. Instead, it is provable from the inside—almost as if we were meant to find out.
 date: 2026-06-19
 draft: false
+series: Reclaiming the Miraculous
+position: "3"
 ---
 Suppose—as other essays suggest—you really were the Ground of Being, dreaming up this reality and all its inhabitants. What signals could you give yourself to help you remember your true condition?
 

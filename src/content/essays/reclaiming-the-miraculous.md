@@ -3,6 +3,8 @@ title: Reclaiming the Miraculous
 description: We've convinced ourselves we live in a world of 'pitiless indifference'—and we're turning it into one to match. A way out, relying on nothing more than radical honesty about what we can and can't know.
 date: 2026-06-13
 draft: false
+series: Reclaiming the Miraculous
+position: "1"
 ---
 > _Most of us suspect we don’t really know what life is. But really knowing you don't know takes some work. It requires you to clearly see that your story is just a story; and to become conscious of the deep mystery at its foundation._ —Tim Freke
 

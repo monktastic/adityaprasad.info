@@ -3,6 +3,8 @@ title: The World as an Inference Loop
 description: Why ‘Reality’ Might Be a Stable Illusion
 date: 2026-06-18
 draft: false
+series: Reclaiming the Miraculous
+position: "2"
 ---
 *In a previous essay, I described what happens when you really notice that you don't know what reality is—and how that noticing, sustained, opens into something the contemplative traditions have always pointed at: a sense of reality as radically present, undeniable, and somehow greater than any model of it.*
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/essays/universe-openness.md",
+                "file": "src/content/essays/beings-that-can-prove-their-own-openness.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "universe-openness"
+              "title": "beings-that-can-prove-their-own-openness"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/essays/universe-openness.md",
+                "file": "src/content/essays/beings-that-can-prove-their-own-openness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for universe-openness"
+              "title": "Backlinks for beings-that-can-prove-their-own-openness"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/essays/universe-openness.md",
+                "file": "src/content/essays/beings-that-can-prove-their-own-openness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from universe-openness"
+              "title": "Outgoing links from beings-that-can-prove-their-own-openness"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/essays/universe-openness.md",
+                "file": "src/content/essays/beings-that-can-prove-their-own-openness.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of universe-openness"
+              "title": "Outline of beings-that-can-prove-their-own-openness"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "cff6d6fa38046846",
   "lastOpenFiles": [
-    "src/content/essays/reclaiming-the-miraculous.md",
-    "src/content/essays/universe-openness.md",
     "src/content/essays/world-as-an-inference-loop.md",
+    "src/content/essays/reclaiming-the-miraculous.md",
+    "src/content/essays/beings-that-can-prove-their-own-openness.md",
     "src/content/essays/what-meditation-is-not.md",
     "src/content/essays/structure-and-silence.md",
     "src/content/essays/draft-example.md"
