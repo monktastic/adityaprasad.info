@@ -6,9 +6,14 @@ interface Props {
   description: string;
   date: Date;
   updated?: Date;
+  series?: string;
+  position?: number;
+  totalInSeries?: number;
+  prevEssay?: { title: string; url: string } | null;
+  nextEssay?: { title: string; url: string } | null;
 }
 
-const { title, description, date, updated } = Astro.props;
+const { title, description, date, updated, series, position, totalInSeries, prevEssay, nextEssay } = Astro.props;
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -17,6 +22,11 @@ const formatDate = (d: Date) =>
 <Base title={`${title} — Aditya Prasad`} description={description}>
   <article class="essay">
     <header class="essay-header">
+      {series && (
+        <div class="series-label">
+          <a href="/essays">{series}</a> — Part {position} of {totalInSeries}
+        </div>
+      )}
       <h1>{title}</h1>
       <div class="essay-meta">
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
@@ -30,6 +40,26 @@ const formatDate = (d: Date) =>
     <div class="essay-body">
       <slot />
     </div>
+    {(prevEssay || nextEssay) && (
+      <nav class="series-nav">
+        <div class="nav-prev">
+          {prevEssay && (
+            <a href={prevEssay.url}>
+              <span class="nav-label">&larr; Previous</span>
+              <span class="nav-title">{prevEssay.title}</span>
+            </a>
+          )}
+        </div>
+        <div class="nav-next">
+          {nextEssay && (
+            <a href={nextEssay.url}>
+              <span class="nav-label">Next &rarr;</span>
+              <span class="nav-title">{nextEssay.title}</span>
+            </a>
+          )}
+        </div>
+      </nav>
+    )}
   </article>
 </Base>
 
@@ -44,6 +74,23 @@ const formatDate = (d: Date) =>
 
   .essay-header {
     margin-bottom: var(--space-lg);
+  }
+
+  .series-label {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-dim);
+    margin-bottom: var(--space-sm);
+  }
+
+  .series-label a {
+    color: var(--color-accent);
+  }
+
+  .series-label a:hover {
+    text-decoration: underline;
   }
 
   .essay-header h1 {
@@ -76,5 +123,58 @@ const formatDate = (d: Date) =>
 
   .essay-body :global(li) {
     margin-bottom: 0.4em;
+  }
+
+  .series-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-md);
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .nav-prev, .nav-next {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .nav-next {
+    text-align: right;
+  }
+
+  .series-nav a {
+    display: block;
+    color: var(--color-text);
+    transition: color 0.2s ease;
+  }
+
+  .series-nav a:hover {
+    color: var(--color-accent);
+  }
+
+  .nav-label {
+    display: block;
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-dim);
+    margin-bottom: 0.3em;
+  }
+
+  .nav-title {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  @media (max-width: 600px) {
+    .series-nav {
+      flex-direction: column;
+    }
+
+    .nav-next {
+      text-align: left;
+    }
   }
 </style>

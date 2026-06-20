@@ -2,8 +2,26 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const essays = (await getCollection('essays', ({ data }) => !data.draft))
+const allEssays = (await getCollection('essays', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const seriesMap = new Map();
+const standalone = [];
+
+for (const essay of allEssays) {
+  if (essay.data.series) {
+    if (!seriesMap.has(essay.data.series)) {
+      seriesMap.set(essay.data.series, []);
+    }
+    seriesMap.get(essay.data.series).push(essay);
+  } else {
+    standalone.push(essay);
+  }
+}
+
+for (const [, essays] of seriesMap) {
+  essays.sort((a, b) => (a.data.position ?? 0) - (b.data.position ?? 0));
+}
 ---
 
 <Base title="Essays — Aditya Prasad" description="Essays on contemplative practice, philosophy, and mathematics.">
@@ -12,11 +30,31 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
       <h1>Essays</h1>
     </header>
 
-    {essays.length === 0 ? (
-      <p class="empty">Nothing here yet. Check back soon.</p>
-    ) : (
+    {seriesMap.size > 0 && (
+      Array.from(seriesMap.entries()).map(([seriesName, essays]) => (
+        <section class="series-group">
+          <h2 class="series-title"><span class="series-prefix">Series:</span> {seriesName}</h2>
+          <ul class="essay-list series-list">
+            {essays.map((essay, i) => (
+              <li>
+                <a href={`/essays/${essay.id}`}>
+                  <div class="essay-info">
+                    <span class="essay-title">
+                      <span class="part-number">Part {i + 1}.</span> {essay.data.title}
+                    </span>
+                    <p class="essay-desc">{essay.data.description}</p>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    )}
+
+    {standalone.length > 0 && (
       <ul class="essay-list">
-        {essays.map((essay) => (
+        {standalone.map((essay) => (
           <li>
             <a href={`/essays/${essay.id}`}>
               <div class="essay-info">
@@ -35,6 +73,10 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
         ))}
       </ul>
     )}
+
+    {allEssays.length === 0 && (
+      <p class="empty">Nothing here yet. Check back soon.</p>
+    )}
   </div>
 </Base>
 
@@ -51,6 +93,40 @@ const essays = (await getCollection('essays', ({ data }) => !data.draft))
 
   .empty {
     color: var(--color-text-muted);
+  }
+
+  .series-group {
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .series-group:last-of-type {
+    border-bottom: none;
+  }
+
+  .series-title {
+    font-size: 0.85rem;
+    font-family: var(--font-sans);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-dim);
+    margin-bottom: var(--space-md);
+    margin-top: 0;
+  }
+
+  .series-prefix {
+    color: var(--color-accent);
+  }
+
+  .series-list {
+    padding-left: var(--space-md);
+    border-left: 2px solid var(--color-border);
+  }
+
+  .part-number {
+    color: var(--color-text-dim);
   }
 
   .essay-list {

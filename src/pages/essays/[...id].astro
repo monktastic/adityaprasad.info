@@ -3,15 +3,27 @@ import { getCollection, render } from 'astro:content';
 import Essay from '../../layouts/Essay.astro';
 
 export async function getStaticPaths() {
-  const essays = await getCollection('essays', ({ data }) => !data.draft);
-  return essays.map((essay) => ({
-    params: { id: essay.id },
-    props: { essay },
-  }));
+  const allEssays = await getCollection('essays', ({ data }) => !data.draft);
+  return allEssays.map((essay) => {
+    let seriesEssays = [];
+    if (essay.data.series) {
+      seriesEssays = allEssays
+        .filter((e) => e.data.series === essay.data.series)
+        .sort((a, b) => (a.data.position ?? 0) - (b.data.position ?? 0));
+    }
+    return {
+      params: { id: essay.id },
+      props: { essay, seriesEssays },
+    };
+  });
 }
 
-const { essay } = Astro.props;
+const { essay, seriesEssays } = Astro.props;
 const { Content } = await render(essay);
+
+const currentIndex = seriesEssays.findIndex((e) => e.id === essay.id);
+const prevEssay = currentIndex > 0 ? seriesEssays[currentIndex - 1] : null;
+const nextEssay = currentIndex < seriesEssays.length - 1 ? seriesEssays[currentIndex + 1] : null;
 ---
 
 <Essay
@@ -19,6 +31,11 @@ const { Content } = await render(essay);
   description={essay.data.description}
   date={essay.data.date}
   updated={essay.data.updated}
+  series={essay.data.series}
+  position={essay.data.position}
+  totalInSeries={seriesEssays.length}
+  prevEssay={prevEssay ? { title: prevEssay.data.title, url: `/essays/${prevEssay.id}` } : null}
+  nextEssay={nextEssay ? { title: nextEssay.data.title, url: `/essays/${nextEssay.id}` } : null}
 >
   <Content />
 </Essay>

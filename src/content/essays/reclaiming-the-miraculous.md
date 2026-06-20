@@ -173,9 +173,8 @@ It couldn't remain hidden forever.
 > _Dr. Wheeler: A lovely way to put it—"is the big bang here?" I can imagine that we will someday have to answer your question with a "yes." [...] Have we had the mechanism of creation before our eyes all this time without recognizing the truth? That is the larger question implicit in your comment. Of all the deep questions of our time, I do not know one that is deeper, more exciting, more clearly pregnant with a great advance in our understanding._
 
 ---
----
 
-## Quotes
+## Appendix: Quotes
 
 > _I laugh when I think how I once sought paradise as a realm outside of the world of birth. It is right in the world of birth and death that the miraculous truth is revealed. But this is not the laughter of someone who suddenly acquires a great fortune; neither is it the laughter of one who has won a victory. It is, rather, the laughter of one who; after having painfully searched for something for a long time, finds it one morning in the pocket of his coat._
 > 
